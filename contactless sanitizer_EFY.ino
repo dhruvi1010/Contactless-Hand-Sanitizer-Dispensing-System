@@ -1,4 +1,4 @@
-// Author :  Dhruvi N. Koshiya
+// Author :  Dhruvi Nareshbhai. Koshiya
 // defines pins
 const int trigPin = 3;
 const int echoPin = 2;
